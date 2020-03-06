@@ -1,0 +1,2 @@
+rootProject.name='AsyncDownloader'
+include ':app'
